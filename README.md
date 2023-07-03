@@ -1,9 +1,9 @@
-# kolla-pull-images
+# kolla-pull-images.sh
 To pull images and push to local registry. 
 
-# Adjust variables for openstack release to download in script
+# In script adjust variables for openstack release to download
 
 kolla_release="zed-ubuntu-jammy"
 
-# Run:
+# Run script:
 ./kolla-pull-images.sh
