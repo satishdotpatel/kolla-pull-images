@@ -1,6 +1,6 @@
 #!/bin/bash
 # Description: This script use to pull images from public docker
-               registry and push them to local docker registry.
+#              registry and push them to local docker registry.
 
 public_registry_host="quay.io"
 local_registry_host="docker-registry"
